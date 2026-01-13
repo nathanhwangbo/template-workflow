@@ -1,0 +1,16 @@
+---
+title: "notebook example"
+format: html
+---
+
+I run most of the analysis in notebooks, just because it's easier for me to document what's going on in each section.
+
+I like quarto, but this could just as easily be a jupyter notebook.
+
+The main thing I wanted to illustrate here is how easy it is to add in our helper functions!
+
+```{python}
+from template_workflow import helpers
+
+helpers.my_helper_function()
+```
