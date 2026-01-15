@@ -7890,7 +7890,7 @@ packages:
 - pypi: ./
   name: template-workflow
   version: 0.1.0
-  sha256: b21359e1af8f2fe0753b9e7fb8ec02ca40c89f629a96a3b03ea2f721dbee7a15
+  sha256: 1060e71907329c276a20f3923de43ba3d31ffca6d7205ed180cb5da14b3a87fd
   requires_python: '>=3.11'
 - conda: https://conda.anaconda.org/conda-forge/noarch/threadpoolctl-3.6.0-pyhecae5ae_0.conda
   sha256: 6016672e0e72c4cf23c0cf7b1986283bd86a9c17e8d319212d78d8e9ae42fdfd
